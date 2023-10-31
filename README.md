@@ -55,6 +55,11 @@
 
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/e8be4f7e-c72c-490b-9221-0f4552de175a.png" width=60% height=50%></p>
 
+<br>
+
+
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/1a7f4fad-be30-4c50-984a-591081aee40c.png" width=60% height=50%></p>
+
 <pre>
   #include<iostream>
   using namespace std;
