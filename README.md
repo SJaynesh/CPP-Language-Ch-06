@@ -110,7 +110,9 @@ int main () {
 	
 }
 </pre>
-    
+
+<br>
+
 ## 2) Multilevel inheritance : 
 > * `In multilevel inheritance, a class can inherit from a derived class, making the inheritance chain longer.`
 
@@ -122,6 +124,81 @@ int main () {
 <br>
 
 <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/b391c75c-308b-4d4d-87f4-6eeed8ef9cf0.png" width=60% height=50%></p>
+
+<br>
+
+## 3) Hierarchical inheritance : 
+> * `Hierarchical inheritance to provide only one Parent class and multiple child class.`
+> * Multiple derived classes inherit from a single base class.
+
+<br>
+
+> `Minimum class : ` 3 <br>
+> `Maximum class : ` Unlimited <br>
+
+<br>
+
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/2ce29599-e97d-4715-8de7-6ebcfb09df57.png" width=60% height=50%></p>
+
+<br>
+
+## 4) Multiple inheritance : 
+> * `A class can inherit attributes and methods from more than one base class.`
+
+<br>
+
+> `Minimum class : ` 3 <br>
+> `Maximum class : ` Unlimited <br>
+
+<br>
+
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/c7ee1a62-7164-4b14-aa13-e034c652107c.png" width=60% height=50%></p>
+
+<br>
+
+## 5) Hybrid inheritance : 
+
+<br>
+
+> `Minimum class : ` 4 <br>
+> `Maximum class : ` Unlimited <br>
+
+<br>
+
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/71cccca0-4c61-4a6b-85a8-3f471cfecf05.png" width=60% height=50%></p>
+
+<br>
+
+## Error of Ambiguity (Duplicate):
+> * When we get the request of same method or attribute from multiple class which are not directly connected.
+> * same method from different sources.
+
+<br>
+
+> * ` ambiguity == duplication == repetition `
+
+<br>
+
+## This error occurs only in two inheritances.
+> 1. Multiple
+> 2. Hybrid
+
+<br>
+
+## Solution of Ambiguity :
+
+<br>
+
+### 1. Temporory :
+> * - using scope resolution operator (::)
+
+<br>
+
+### 2. Permenant : 
+> * - using virtual method
+
+
+
 
 
 
