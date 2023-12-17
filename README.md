@@ -16,11 +16,11 @@
 <br>
 
 
-> 1) `Simple / Single inheritance`
-> 2) `Multilevel inheritance`
-> 3) `Hierarchical inheritance`
-> 4) `Multiple inheritance`
-> 5) `Hybrid inheritance`
+> 1) `Simple / Single Inheritance`
+> 2) `Multilevel Inheritance`
+> 3) `Hierarchical Inheritance`
+> 4) `Multiple Inheritance`
+> 5) `Hybrid Inheritance`
 
 <br>
 
@@ -33,7 +33,7 @@
 
 <br><br>
 
-## 1) Simple / Single inheritance : 
+## 1) Simple / Single Inheritance : 
 
 <br>
 
@@ -108,7 +108,7 @@ int main () {
 
 <br><br>
 
-## 2) Multilevel inheritance : 
+## 2) Multilevel Inheritance : 
 
 <br>
 
@@ -125,7 +125,7 @@ int main () {
 
 <br><br>
 
-## 3) Hierarchical inheritance : 
+## 3) Hierarchical Inheritance : 
 
 <br>
 
@@ -143,7 +143,7 @@ int main () {
 
 <br><br>
 
-## 4) Multiple inheritance : 
+## 4) Multiple Inheritance : 
 
 <br>
 
@@ -160,9 +160,11 @@ int main () {
 
 <br><br>
 
-## 5) Hybrid inheritance : 
+## 5) Hybrid Inheritance : 
 
 <br>
+
+> * `Two Inheritance combination to create One inheritance it's called Hybrid inheritance.`
 
 > `Minimum class : ` 4 <br>
 > `Maximum class : ` N number <br>
