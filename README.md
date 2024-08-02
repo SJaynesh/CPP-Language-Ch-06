@@ -6,8 +6,9 @@
 
 <br>
 
-> * `Passing a data into another class from one class.`
-> * `To Share data from one class to another class.`
+> * Inheritance allows a **new class (derived or child class ) to inherit properites and behaviour from an existing class(base or parent class)**
+> * Passing a data into another class from one class.
+> * To Share data from one class to another class.
 
 <br><br>
 
@@ -22,14 +23,32 @@
 > 4) `Multiple Inheritance`
 > 5) `Hybrid Inheritance`
 
+<br><br>
+
+<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/a50a3004-adcc-47e5-881b-6d00d58389e5.png" width=150% height=100%></p>
+
 <br>
 
-<p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-06/assets/115562979/a50a3004-adcc-47e5-881b-6d00d58389e5.png" width=70% height=60%></p>
+### 1) Parent Class :
 
-<br>
-
+> * The class whose properties and methods are inherited. Also known as the **base class** or **super class**.
 > * Here main class which data will be shared is called parent class/super class/base class.
+
+<br>
+
+### 2) Child Class :
+
+> * The class that inherits properties and methods from the base class. Also known as the **derived class** or **sub class**.
 > * The class which consumes data of another class is called child class/sub class/derived class.
+
+<br><br>
+
+## Syntax: 
+
+<br>
+
+![inheritance](https://github.com/user-attachments/assets/49723fb3-5f6e-42b9-b35f-b6b0dfb00204)
+
 
 <br><br>
 
